@@ -1,8 +1,8 @@
 name: fluttertestpackage
 description: test flutter package
 version: 0.0.1
-author:
-homepage:
+author: sajjad arvin
+homepage:https://github.com/sajjadws/fluttertestpackage
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
